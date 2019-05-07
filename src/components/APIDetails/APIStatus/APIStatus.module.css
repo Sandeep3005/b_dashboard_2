@@ -1,0 +1,15 @@
+.down {
+  background: #f00;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-left: 50%;
+}
+
+.active {
+  background: rgb(56, 202, 117);
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-left: 50%;
+}

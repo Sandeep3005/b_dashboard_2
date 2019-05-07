@@ -1,0 +1,14 @@
+.Brand {
+  font-family: "Comfortaa", cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.NavContainer {
+  border-bottom: 0.3em solid rgb(70, 154, 211);
+}
+
+.AutoLeft {
+  margin-left: auto !important;
+  flex-direction: row;
+}
