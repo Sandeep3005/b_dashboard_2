@@ -1,12 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-#Code To Refer for Redux Implementation
+# Code To Refer for Redux Implementation
 
 ## For Folder Structure
+
 https://levelup.gitconnected.com/structure-your-react-redux-project-for-scalability-and-maintainability-618ad82e32b7
 
 ## For Demo Application
+
 https://github.com/mschwarzmueller/reactjs-redux-basics/blob/06-folder-structure/src/app/store.js
 
 ## Available Scripts
