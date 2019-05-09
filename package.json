@@ -6,9 +6,12 @@
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
     "react-scripts": "3.0.0",
     "react-select": "^2.4.3",
     "react-table": "^6.10.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
     "typescript": "^3.4.5",
     "underscore": "^1.9.1"
   },
